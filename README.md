@@ -89,7 +89,7 @@ The system demonstrates relational database concepts such as **Primary Keys**, *
 
 ---
 
-## 4. SQL Queries (QAP2 Requirements)
+## 4. SQL Queries 
 
 Query 1 — Insert a new member
 
