@@ -1,4 +1,4 @@
-اعد ترتيب # Library Management System
+# Library Management System
 
 A simple relational database project built using **PostgreSQL** to manage library members, books, and borrowing records.  
 This project demonstrates core SQL operations including table creation, inserting data, updating records, deleting records, and running queries.
